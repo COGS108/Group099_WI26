@@ -1,0 +1,15 @@
+tqdm
+requests
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+plotly
+plotly.express
+plotly.graph_objects
+plotly.subplots
+plotly.figure_factory
+jupyter
